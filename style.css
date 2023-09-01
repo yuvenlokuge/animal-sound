@@ -1,0 +1,37 @@
+body{
+    background: linear-gradient(aquamarine,blueviolet);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.header_div
+{
+    color: azure;
+}
+.header_div p{
+    font-family: 'Roboto',sans-serif;
+    color: red;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 30px;
+    width:130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(0, 0, 0);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background: linear-gradient(aquamarine,blueviolet);
+    line-height: 3 ;
+    text-shadow: 5px 5px 5px red;
+}
